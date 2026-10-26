@@ -24,7 +24,7 @@ My training at **Alawneh Exchange** introduced me to web test automation with **
 
 - **Current focus:** Laravel applications, software quality, and repeatable web testing.
 - **Open to:** QA internships, full stack opportunities, and practical collaborations.
-- **Education:** BSc in Computing Smart Devices, Tafila Technical University — graduated with distinction, second in class.
+- **Education:** BSc in Computing Smart Devices, Tafila Technical University - graduated with distinction, second in class.
 
 ## ◈ My technology universe
 
