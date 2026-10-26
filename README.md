@@ -1,21 +1,22 @@
 <div align="center">
 
-# Ahmad Alfararjeh
-### Full Stack Developer · Aspiring QA Engineer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=230&section=header&text=AHMAD%20ALFARARJEH&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20ASPIRING%20QA%20ENGINEER&descSize=15&descAlignY=57" alt="Animated cyan and violet Ahmad Alfararjeh banner" />
 
-**Building useful applications. Learning to test them better.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=22D3EE&center=true&vCenter=true&width=650&lines=From+idea+to+interface+to+API.;Laravel+%2B+PHP+%2B+React;Exploring+web+test+automation;Always+building.+Always+learning." alt="Animated developer introduction" />
 
-Amman, Jordan · Laravel & PHP · Web automation
+**CODE · CREATE · TEST · REPEAT**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ahmad-alfararjeh)
-[![Email](https://img.shields.io/badge/Email-Let%27s_talk-14B8A6?style=for-the-badge)](mailto:ahmad.a.alfararjeh@gmail.com)
+Amman, Jordan · Open to development opportunities & QA internships
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge)](https://www.linkedin.com/in/ahmad-alfararjeh)
+[![Email](https://img.shields.io/badge/Email-Let%27s_talk-22D3EE?style=for-the-badge)](mailto:ahmad.a.alfararjeh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github)](https://github.com/ahmad-alfararjeh?tab=repositories)
 
 </div>
 
 ---
 
-## About me
+## ◈ The developer behind the code
 
 I'm a full stack developer from Jordan with hands-on experience building web applications with **Laravel, PHP, JavaScript, and React**. I enjoy connecting responsive interfaces, REST APIs, and databases into complete products.
 
@@ -25,9 +26,27 @@ My training at **Alawneh Exchange** introduced me to web test automation with **
 - **Open to:** QA internships, full stack opportunities, and practical collaborations.
 - **Education:** BSc in Computing Smart Devices, Tafila Technical University — graduated with distinction, second in class.
 
-## Technology toolkit
+## ◈ My technology universe
 
-### Core development
+### Languages & frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,bootstrap&theme=dark&perline=7" alt="PHP Laravel JavaScript React HTML CSS Bootstrap logos" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,dart&theme=dark&perline=5" alt="Java Python C++ C Sharp Dart logos" />
+</p>
+
+<p align="center"><b>Web development · Additional languages · Tools I work with</b></p>
+
+### Databases, tools & creative workflow
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode,androidstudio,figma&theme=dark&perline=8" alt="MySQL PostgreSQL Firebase Git GitHub VS Code Android Studio Figma logos" />
+</p>
+
+### Development stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -48,6 +67,10 @@ My training at **Alawneh Exchange** introduced me to web test automation with **
 
 ### Quality assurance & automation
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium logo" />
+</p>
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Katalon](https://img.shields.io/badge/Katalon_Studio-16A34A?style=for-the-badge)
 ![Ranorex](https://img.shields.io/badge/Ranorex-2563EB?style=for-the-badge)
@@ -58,7 +81,11 @@ My training at **Alawneh Exchange** introduced me to web test automation with **
 - Recording and replaying user interactions and test scenarios with Katalon Studio and Ranorex.
 - Continuing to build testing fundamentals through CTFL study.
 
-## Experience at a glance
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:22D3EE&height=70&section=header&animation=twinkling" alt="Animated violet and cyan wave divider" />
+</p>
+
+## ◈ My journey
 
 | Experience | Focus |
 | :--- | :--- |
@@ -67,7 +94,7 @@ My training at **Alawneh Exchange** introduced me to web test automation with **
 | **Freelance** · Nov 2024 – Present | Laravel and PHP applications, responsive interfaces, and complete features |
 | **Orange Coding Academy** · Sep 2024 – Jan 2025 | Laravel, React, REST APIs, and collaboration through Git/GitHub |
 
-## Selected work
+## ◈ Things I have built
 
 | Project | What I worked on |
 | :--- | :--- |
@@ -84,8 +111,12 @@ My training at **Alawneh Exchange** introduced me to web test automation with **
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=650&lines=Have+an+idea%3F+Let%27s+build+it.;Make+it+work.+Make+it+reliable.;Let%27s+connect+and+create." alt="Animated collaboration invitation" />
+
 ### Let's build something useful.
 
 [LinkedIn](https://www.linkedin.com/in/ahmad-alfararjeh) · [Email](mailto:ahmad.a.alfararjeh@gmail.com) · [GitHub](https://github.com/ahmad-alfararjeh)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=130&section=footer&animation=twinkling" alt="Animated cyan and violet footer wave" />
