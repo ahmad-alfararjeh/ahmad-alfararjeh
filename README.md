@@ -1,197 +1,151 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:22D3EE,100:A855F7&height=260&section=header&text=AHMAD%20ALFARARJEH&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Aspiring%20QA%20Engineer&descSize=18&descAlignY=60" alt="Ahmad Alfararjeh animated banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:080B18,35:142347,70:51318C,100:06B6D4&text=AHMAD%20ALFARARJEH&fontColor=FFFFFF&fontSize=44&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20QUALITY%20ENGINEERING&descAlignY=62&descSize=17&animation=fadeIn" alt="Ahmad Alfararjeh — animated aurora header" />
 
 <a href="https://github.com/ahmad-alfararjeh">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=22D3EE&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=%F0%9F%91%8B+Hi%2C+I%27m+Ahmad;From+idea+%E2%86%92+interface+%E2%86%92+API+%E2%86%92+tested+release;Laravel+%E2%80%A2+PHP+%E2%80%A2+React+%E2%80%A2+Selenium;Building+things+that+work.+Testing+things+that+last." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=21&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=780&height=55&lines=Designing+experiences.+Engineering+reliability.;From+beautiful+interfaces+to+robust+APIs.;Laravel+%2F+React+%2F+Automation+Testing;Build.+Validate.+Improve.+Repeat." alt="Animated developer introduction" />
 </a>
 
-<br/>
+<p>
+<a href="https://www.linkedin.com/in/ahmad-alfararjeh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ahmad.a.alfararjeh@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/ahmad-alfararjeh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_Work-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+</p>
 
-<img src="https://img.shields.io/badge/CODE-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CREATE-A855F7?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TEST-14B8A6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/REPEAT-F472B6?style=flat-square&labelColor=0D1117" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Amman,_Jordan-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" />
-<img src="https://img.shields.io/badge/🟢_Open_to_work-0D1117?style=for-the-badge&labelColor=0D1117&color=A855F7" />
-<img src="https://komarev.com/ghpvc/?username=ahmad-alfararjeh&label=Profile+views&color=22D3EE&style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alfararjeh)
-[![Email](https://img.shields.io/badge/Email-Let's_talk-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.a.alfararjeh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-My_work-181717?style=for-the-badge&logo=github)](https://github.com/ahmad-alfararjeh?tab=repositories)
+<img src="https://img.shields.io/badge/BASED_IN-Amman%2C_Jordan-101827?style=flat-square&labelColor=0E7490&color=111827" alt="Based in Amman, Jordan" />
+<img src="https://img.shields.io/badge/STATUS-Open_to_opportunities-101827?style=flat-square&labelColor=6D28D9&color=111827" alt="Open to opportunities" />
+<img src="https://komarev.com/ghpvc/?username=ahmad-alfararjeh&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" alt="Profile views" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:22D3EE&height=60&section=header&animation=twinkling" alt="divider" />
+<br/>
 
-## 👨‍💻 About me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:8B5CF6,100:06B6D4" alt="Gradient divider" />
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## About / The person behind the code
 
-I'm a **full stack developer from Jordan** who enjoys connecting responsive interfaces, REST APIs, and databases into complete products, using **Laravel, PHP, JavaScript, and React**.
+<table><tr><td width="62%" valign="top">
 
-At **Alawneh Exchange** I was introduced to web test automation with **Selenium WebDriver, Katalon Studio, and Ranorex**. Now I'm growing my QA skills and studying for **ISTQB CTFL**.
+I'm **Ahmad**, a full stack developer based in Jordan, creating thoughtful web experiences from frontend interfaces to APIs and databases.
 
-🎓 **BSc in Computing Smart Devices**, Tafila Technical University, graduated with distinction (**2nd in class**).
+My core stack is **Laravel, PHP, JavaScript, and React**. I also care about what happens *after* a feature ships: software quality, repeatable testing, and reliable releases.
 
-</td>
-<td width="38%" valign="top">
+During my experience at **Alawneh Exchange**, I explored web automation with **Selenium WebDriver, Katalon Studio, and Ranorex**. I'm currently developing my QA expertise and studying for **ISTQB CTFL**.
+
+**Education:** BSc in Computing Smart Devices, **Tafila Technical University** — graduated with distinction, **2nd in class**.
+
+</td><td width="38%" valign="top">
 
 ```yaml
-status:   building & learning
-focus:    Laravel · QA · web testing
-studying: ISTQB CTFL
-open_to:
-  - QA internships
-  - Full stack roles
-  - Collaborations
+ahmad:
+  role: Full Stack Developer
+  direction: Quality Engineering
+  location: Amman, Jordan
+  currently_learning: ISTQB CTFL
+  interested_in:
+    - Full Stack Development
+    - QA & Test Automation
+    - Meaningful Collaborations
 ```
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 
-### 🔄 How I work
+<br/>
 
-```mermaid
-flowchart LR
-    A([💡 Idea]) --> B[🎨 Interface]
-    B --> C[⚙️ API & Database]
-    C --> D[🧪 Automated Tests]
-    D --> E([🚀 Reliable Release])
-    D -. feedback .-> B
-    style A fill:#22D3EE,stroke:#22D3EE,color:#0D1117
-    style E fill:#A855F7,stroke:#A855F7,color:#ffffff
-    style B fill:#0D1117,stroke:#22D3EE,color:#22D3EE
-    style C fill:#0D1117,stroke:#A855F7,color:#A855F7
-    style D fill:#0D1117,stroke:#14B8A6,color:#14B8A6
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=60&section=header&animation=twinkling" alt="divider" />
-
-## 🧰 Tech universe
+## Technology / My toolkit
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Frontend+%E2%80%A2+Backend+%E2%80%A2+Databases+%E2%80%A2+QA" alt="stack caption" />
+**Frontend & experience**
 
-**Web**<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,bootstrap&theme=dark&perline=7" alt="Web stack" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,figma&theme=dark" alt="JavaScript React HTML CSS Bootstrap Figma" />
 
-**Other languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,dart&theme=dark&perline=5" alt="Other languages" />
+**Backend & data**
 
-**Data & tools**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode,androidstudio,figma&theme=dark&perline=8" alt="Databases and tools" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,firebase&theme=dark" alt="PHP Laravel MySQL PostgreSQL Firebase" />
 
-**Quality assurance**<br/>
-<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium" />
+**Languages & development tools**
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,dart,git,github,vscode,androidstudio&theme=dark" alt="Languages and development tools" />
+
+**Quality engineering**
+
 <br/>
-![Katalon](https://img.shields.io/badge/Katalon_Studio-16A34A?style=for-the-badge&labelColor=0D1117)
-![Ranorex](https://img.shields.io/badge/Ranorex-2563EB?style=for-the-badge&labelColor=0D1117)
-![ISTQB](https://img.shields.io/badge/ISTQB_CTFL-Studying-14B8A6?style=for-the-badge&labelColor=0D1117)
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Katalon_Studio-16A34A?style=for-the-badge" alt="Katalon Studio" />
+<img src="https://img.shields.io/badge/Ranorex-2563EB?style=for-the-badge" alt="Ranorex" />
+<img src="https://img.shields.io/badge/ISTQB_CTFL-In_Progress-7C3AED?style=for-the-badge" alt="ISTQB CTFL in progress" />
 
 </div>
 
-| Area | Skills & technologies |
-| :--- | :--- |
-| ⚙️ **Backend & APIs** | PHP, Laravel, REST APIs, end-to-end web features |
-| 🎨 **Frontend** | JavaScript, React, HTML, CSS, Bootstrap, responsive interfaces |
-| 🗄️ **Databases** | MySQL, PostgreSQL, Firebase |
-| 🧪 **QA & automation** | Selenium WebDriver, Katalon Studio, Ranorex, test execution & validation |
-| 🛠️ **Tools** | Git, GitHub, VS Code, Android Studio |
-| 🤝 **Workflow** | Figma, Trello, Agile, Scrum, SDLC |
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:22D3EE&height=60&section=header&animation=twinkling" alt="divider" />
-
-## 🛤️ My journey
-
-```mermaid
-timeline
-    title Career timeline
-    Sep 2024 : Orange Coding Academy
-             : Laravel, React, REST APIs, Git/GitHub
-    Nov 2024 : Freelance (ongoing)
-             : Laravel & PHP apps, responsive UIs
-    Feb 2025 : Alawneh Exchange
-             : Full stack training, Laravel intranet, web automation
-    Jul 2025 : Zain Jordan
-             : DevOps, telecom mediation & provisioning
-```
-
-| Experience | Focus |
-| :--- | :--- |
-| **Zain Jordan** · Jul 2025 – Jun 2026 | DevOps, telecom mediation and provisioning; workflow automation and system integration support |
-| **Alawneh Exchange** · Feb – May 2025 | Full stack development training; Laravel intranet and practical web automation exposure |
-| **Freelance** · Nov 2024 – Present | Laravel and PHP applications, responsive interfaces, and complete features |
-| **Orange Coding Academy** · Sep 2024 – Jan 2025 | Laravel, React, REST APIs, and collaboration through Git/GitHub |
-
-## 🚀 Things I've built
+## Selected work / Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Alawneh Intranet
-Laravel-based enterprise intranet and content management.
+### Alawneh Intranet
+**Enterprise platform**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+Laravel-based internal portal for content and organizational workflows.
 
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Orange LMS
-Learning management workflows: cohorts, submissions, attendance, and reporting.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 ProvGate
-Telecom provisioning simulation, subscriber comparison, and HLR profile validation.
-
-![Telecom](https://img.shields.io/badge/Telecom-22D3EE?style=flat-square&labelColor=0D1117)
-![Validation](https://img.shields.io/badge/Validation-A855F7?style=flat-square&labelColor=0D1117)
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Vehicle Loss Reporting & Tracking
-Mobile reporting, a web management portal, and Firebase integration.
+### Orange LMS
+**Learning platform**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white)
+Learning management workflows for cohorts, submissions, attendance, and reporting.
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 [Genius App](https://github.com/ahmad-alfararjeh/Genius-app)
-Java utilities for everyday calculations and conversions.
+### ProvGate
+**Telecom systems**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+Provisioning simulation, subscriber comparison, and HLR profile validation.
+
+<img src="https://img.shields.io/badge/Telecom-0891B2?style=flat-square" alt="Telecom" /> <img src="https://img.shields.io/badge/Validation-7C3AED?style=flat-square" alt="Validation" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio](https://github.com/ahmad-alfararjeh/Protfolio_Ahmad_Alfararjeh.github.io)
-My personal web portfolio project.
+### Vehicle Loss Reporting & Tracking
+**Mobile + web**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+Mobile reporting, web management portal, and Firebase integration.
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Genius App](https://github.com/ahmad-alfararjeh/Genius-app)
+**Java utilities**
+
+Handy everyday calculation and conversion tools.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+
+</td>
+<td width="50%" valign="top">
+
+### [Personal Portfolio](https://github.com/ahmad-alfararjeh/Protfolio_Ahmad_Alfararjeh.github.io)
+**Web presence**
+
+Personal portfolio website and frontend experiments.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 
 </td>
 </tr>
@@ -199,53 +153,52 @@ My personal web portfolio project.
 
 <div align="center">
 
-[**Browse all my repositories →**](https://github.com/ahmad-alfararjeh?tab=repositories)
+<a href="https://github.com/ahmad-alfararjeh?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View all repositories" /></a>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=60&section=header&animation=twinkling" alt="divider" />
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmad-alfararjeh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=C9D1D9&ring_color=22D3EE&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-alfararjeh&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-alfararjeh&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=A855F7&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak stats" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-alfararjeh&bg_color=0D1117&color=22D3EE&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution graph" />
-
-</div>
-
-<!--
-OPTIONAL: Snake animation (needs the Platane/snk GitHub Action; see setup note).
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-alfararjeh/ahmad-alfararjeh/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ahmad-alfararjeh/ahmad-alfararjeh/output/github-snake.svg" />
-</picture>
-</div>
--->
-
-## 🎯 Currently
-
-- 🔭 Building **Laravel** applications with clean, tested code
-- 🧪 Studying for **ISTQB CTFL** and practicing repeatable web testing
-- 🤝 Looking for **QA internships** and **full stack** opportunities
-
-<div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=650&lines=Have+an+idea%3F+Let%27s+build+it.;Make+it+work.+Make+it+reliable.;Let%27s+connect+and+create." alt="Closing animation" />
+## Experience / The journey
 
-### ✨ Let's build something useful ✨
+| Period | Chapter | What I worked on |
+|:--|:--|:--|
+| **Jul 2025 – Jun 2026** | **Zain Jordan** | DevOps, telecom mediation and provisioning, integration support |
+| **Feb – May 2025** | **Alawneh Exchange** | Laravel intranet, full stack training, web test automation |
+| **Nov 2024 – Present** | **Freelance Developer** | PHP/Laravel applications, responsive interfaces, end-to-end features |
+| **Sep 2024 – Jan 2025** | **Orange Coding Academy** | Laravel, React, REST APIs, Git/GitHub collaboration |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alfararjeh)
-[![Email](https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.a.alfararjeh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ahmad-alfararjeh)
+<br/>
+
+## GitHub / In motion
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmad-alfararjeh&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&ring_color=06B6D4" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-alfararjeh&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=E2E8F0&langs_count=8" alt="Top languages" />
+
+<img width="65%" src="https://streak-stats.demolab.com?user=ahmad-alfararjeh&hide_border=true&background=0B1020&ring=A78BFA&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub contribution streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-alfararjeh&bg_color=0B1020&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&area_color=312E81&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:A855F7,50:22D3EE,100:0D1117&height=140&section=footer&animation=fadeIn" alt="footer" />
+<br/>
+
+## Next / What I'm focused on
+
+- **Building** full stack Laravel applications with a focus on maintainability.
+- **Learning** test design, automation, and ISTQB CTFL foundations.
+- **Exploring** full stack roles, QA internships, and developer collaborations.
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=footer&color=0:06B6D4,50:7C3AED,100:0B1020&animation=twinkling" alt="Animated gradient footer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=19&duration=3000&pause=1100&color=A78BFA&center=true&vCenter=true&width=690&height=48&lines=Great+software+is+built+with+care.;Let's+create+something+meaningful." alt="Animated closing statement" />
+
+**Let's make something that looks great and works even better.**
+
+<a href="mailto:ahmad.a.alfararjeh@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" /></a>
+
+</div>
