@@ -251,30 +251,36 @@ My personal web portfolio project.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=60&section=header&animation=twinkling" alt="divider" />
 
-<h2><img src="https://api.iconify.design/lucide:activity.svg?color=%2322D3EE" width="26" alt="" />&nbsp; GitHub stats</h2>
+<h2>◈ Code in motion</h2>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmad-alfararjeh&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A855F7&text_color=8B949E&ring_color=22D3EE&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-alfararjeh&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=8B949E&langs_count=8" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-alfararjeh&theme=dark&hide_border=true&background=00000000&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=A855F7&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E" alt="Streak stats" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-alfararjeh&bg_color=0D1117&color=22D3EE&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution graph" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=COMMIT.+BUILD.+TEST.+IMPROVE.;My+public+GitHub+activity%2C+visualized.;Small+iterations.+Real+progress." alt="Animated engineering dashboard title" />
 </div>
 
-<!--
-OPTIONAL: Snake animation (needs the Platane/snk GitHub Action).
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-alfararjeh/ahmad-alfararjeh/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ahmad-alfararjeh/ahmad-alfararjeh/output/github-snake.svg" />
-</picture>
-</div>
--->
+### Contribution pulse
 
-<h2><img src="https://api.iconify.design/lucide:target.svg?color=%2322D3EE" width="26" alt="" />&nbsp; Currently</h2>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-alfararjeh&bg_color=0D1117&color=22D3EE&line=A855F7&point=22D3EE&area=true&area_color=A855F7&hide_border=true&custom_title=Ahmad%27s%20Contribution%20Pulse&radius=12" alt="Recent GitHub contribution activity graph" />
+</p>
+
+### The bigger picture
+
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-alfararjeh&theme=tokyonight" alt="Public GitHub contribution timeline and profile summary" />
+</p>
+
+### Language landscape
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-alfararjeh&theme=tokyonight" alt="Public repository languages chart" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmad-alfararjeh&theme=tokyonight" alt="Languages by public commits chart" />
+</p>
+
+<p align="center"><sub>Charts reflect public GitHub activity and repository data; language usage is not a proficiency rating.</sub></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:A855F7&height=80&section=header&animation=twinkling" alt="Animated neon wave" />
+
+<h2>◈ Currently</h2>
 
 - Building **Laravel** applications with clean, tested code
 - Studying for **ISTQB CTFL** and practicing repeatable web testing
@@ -282,9 +288,7 @@ OPTIONAL: Snake animation (needs the Platane/snk GitHub Action).
 
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=A855F7&background=00000000&center=true&vCenter=true&width=650&lines=Have+an+idea%3F+Let%27s+build+it.;Make+it+work.+Make+it+reliable.;Let%27s+connect+and+create." alt="Closing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=1200&color=A855F7&center=true&vCenter=true&width=760&lines=Have+an+idea%3F+Let%27s+build+it.;Make+it+work.+Make+it+reliable.;Let%27s+connect+and+create." alt="Animated collaboration invitation" />
 
 ### Let's build something useful
 
@@ -294,4 +298,4 @@ OPTIONAL: Snake animation (needs the Platane/snk GitHub Action).
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:A855F7,50:22D3EE,100:0D1117&height=140&section=footer&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:A855F7,50:22D3EE,100:0D1117&height=140&section=footer&animation=twinkling" alt="Animated cyan and violet footer" />
